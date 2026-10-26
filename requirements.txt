@@ -8,3 +8,7 @@ jupyter
 pyarrow
 python-dotenv
 yfinance
+scikit-learn
+scipy
+holidays
+pytest
